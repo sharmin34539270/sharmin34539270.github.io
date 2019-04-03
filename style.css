@@ -38,7 +38,7 @@ fornt-size: 15px;
    .logo img
   {
 	  
-   width: 80px;
+   width: 100px;
    height: auto;
    float: left;
    }
@@ -48,8 +48,8 @@ fornt-size: 15px;
    }
    .row
    {
-	    max-width: 120000px;
-		margin:auto;
+	    max-width: 12000px;
+            margin:auto;
    }
    
    
